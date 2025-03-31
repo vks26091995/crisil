@@ -8,3 +8,5 @@ XGBoost
 LightGBM
 Statsmodels
 NLTK
+transformers
+textblob

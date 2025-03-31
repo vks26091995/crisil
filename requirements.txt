@@ -4,9 +4,6 @@ Matplotlib
 Seaborn
 Scikit-learn
 SciPy
-XGBoost
-LightGBM
-Statsmodels
 NLTK
 transformers
 textblob
